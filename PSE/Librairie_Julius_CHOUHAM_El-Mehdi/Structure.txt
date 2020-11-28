@@ -1,0 +1,12 @@
+
+""""""""""""""""""""""""""""""""""""""""""""""Structre du projet"""""""""""""""""""""""""""""""""""""""
+
+
+lib : librairies produites
+include : fichiers d’entêtes
+src : code source de la librairie julius
+build : fichiers objets produits
+examples : codes sources d’exemples
+bin : fichiers exécutables des exemples
+makefile
+
