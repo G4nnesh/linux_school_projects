@@ -16,7 +16,7 @@ Pour installer :
 
 Pour désinstaller :
 	" make uninstall "
-	- supprime tous le lien symbolique crée usr/lib/libjulius.so
+	- supprime tous les liens symboliques crées usr/lib/libjulius.so
 	- supprime tous les liens symboliques des programmes d'exemples crées dans /usr/local/lib
 	- execute un "make clean" : suppression des fichiers objets, des fichiers executables et des fichier.sp crées
 	
